@@ -1,6 +1,6 @@
-# Developer Lightspeed Evaluation
+# Intelligent Assistant for Developer Hub Evaluation
 
-This branch contains the evaluation resources for **Developer Lightspeed 1.10**, including the source RAG documentation, the generated datasets, and the performance results across multiple LLMs.
+This branch contains the evaluation resources for **Intelligent Assistant for Developer Hub 1.10**, including the source RAG documentation, the generated datasets, and the performance results across multiple LLMs.
 
 ## 📂 Repository Structure
 
@@ -17,7 +17,7 @@ This branch contains the evaluation resources for **Developer Lightspeed 1.10**,
 
 ## 🧪 Evaluation Overview
 
-For the Developer Lightspeed 1.10 release, we ran evaluation against six distinct models.
+For the Intelligent Assistant for Developer Hub 1.10 release, we ran evaluation against six distinct models.
 
 **Models Evaluated:**
 
